@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# `SITE IS PUBLISHED AT` [http://khoapham.terralogic.surge.sh](http://khoapham.terralogic.surge.sh)
+
 ## Available Scripts
 
 In the project directory, you can run:
